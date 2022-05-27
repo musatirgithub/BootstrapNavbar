@@ -8,4 +8,5 @@
   <li>"#clarusway" elements' display becomes inline-block at md screens,</li>
   <li>phone number elements' display becomes inline-block at lg screens.</li>
 </ul> 
+
 ![](https://musatirgithub.github.io/BootstrapNavbar/BootstrapNavbar.gif)
