@@ -1,4 +1,4 @@
-# [Click here to reach Bootstrap Navbar Project ](https://musatirgithub.github.io/BootstrapNavbar/)
+
 <h3>In this project;</h3>
 <ul>
   <li>In this project I have created a navigation bar using bootstrap5,</li>
@@ -23,11 +23,11 @@
 
 
 ## The challenge
-Project focuses on a dog flirt site
+Develop a responsive bootstrap navbar
 
 ## Problem Statement
 
-- Develop an app including a bootstrap navbar, carousel, cards, icons, etc.
+- Develop a navbar with bootstrap library which reacts differently at different screen sizes (responsive)
 <hr>
 
 
@@ -43,12 +43,11 @@ Project focuses on a dog flirt site
 
 
 ### Project Information
-- Tindog website is made by using Bootstrap5, HTML & CSS,
-- Fonts are imported from Google Fonts,
-- From bootstrap5 library: 
-- Carousel,
-- Cards,
-- and Navbar are used.
+- Navbar is made by using Bootstrap5, HTML & CSS,
+- Display property of some elements change according to screen size,
+- Namely phone numbers and "#clarusway" elements' display is none for xs and sm screens, 
+- "#clarusway" elements' display becomes inline-block at md screens,
+- phone number elements' display becomes inline-block at lg screens.
 
 
 
@@ -64,7 +63,7 @@ I used;
 
 ## Lesson Learned
 
-- Bootstrap is a rich CSS library. Things like navbars, cards, carousels can be created within a few minutes and we can save lots of styling time.
+- Bootstrap is a rich CSS library. It's possible to make some HTML elements make invisible or visible according to screen size. Bootstrap classnames can be used for this purpose (for example: d-none or d-md-inline-block)
 
 ### Useful resources
 
